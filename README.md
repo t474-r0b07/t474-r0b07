@@ -61,6 +61,36 @@ DEVELOPMENT       █████████░  Flutter · Dart · Clean Archi
 > Not just the flag — the thinking process.  
 > picoCTF · TryHackMe · OverTheWire · HackTheBox
 
+### 📖 [`git4dummies`](https://github.com/t474-r0b07/git4dummies) *(building)*
+> Field notes on Git and GitHub. In Spanish. No generic tutorials.  
+> `// los bits menos significativos son los que más dicen.`
+
+---
+
+## `> cat incident_archive.log`
+
+```
+REAL INCIDENTS — field notes
+```
+
+| date | target | status |
+|------|--------|--------|
+| 2026.01 | prison admin workstation | `[terminated]` |
+| 2026.03 | rogue gateway · OEP-SERECI | `[isolated]` |
+| 2026.04 | VCR surveillance intrusion | `[contained]` |
+
+```
+2026.01 — unauthorized remote access on prison administration system.
+          detected via anomaly in active sessions.
+
+2026.03 — rogue gateway (Xiaomi / MOBILETECBO.LOCAL) performing ARP sweep
+          + DNS hijack against OEP/SERECI assets at institutional fair.
+          isolated. MAC blacklisted.
+
+2026.04 — intrusion attempt against surveillance recorder.
+          traffic pattern identified. access vector blocked.
+```
+
 ---
 
 ## `> cat roadmap.txt`
