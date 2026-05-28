@@ -114,7 +114,7 @@ Solo cambió la interfaz.
 > Cada referencia que aparece en los writeups y en anti_hype tiene historia real.
 > Aquí está documentada.
 
-→ [/lore/](./lore/)
+# → [/lore/](https://github.com/t474-r0b07/ctf-writeups/tree/main/lore)
 ```
 ████████████████████████████████████████
 █                                      █
