@@ -112,7 +112,12 @@ endgame:    first CVE
     74 20 64 65 76 69 73 69 6e 67 20 61 20 62 65 74 74 65 72 20 73 74 72 61 74 65
     67 79 20 74 68 61 6e 20 79 6f 75 72 20 6f 70 70 6f 6e 65 6e 74 27 73 2e
 ```
+## `> cat /anti_hype/README.md`
 
+> Contenido que el algoritmo no te va a recomendar.
+> Análisis sin hype. Referencias reales. Sin tutoriales de 47 pasos.
+
+→ [/anti_hype/](./anti_hype/)
 ---
 
 ```
