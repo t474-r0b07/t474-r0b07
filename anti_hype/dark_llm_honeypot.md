@@ -109,7 +109,12 @@ El que lo entienda va a ver que esto no es nuevo.
 Solo cambió la interfaz.
 
 ---
+## `> cat /lore/README.md`
 
+> Cada referencia que aparece en los writeups y en anti_hype tiene historia real.
+> Aquí está documentada.
+
+→ [/lore/](./lore/)
 ```
 ████████████████████████████████████████
 █                                      █
