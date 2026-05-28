@@ -170,6 +170,12 @@ que el banner de cookies es solo la versión corporativa
 de algo mucho más viejo.
 
 ---
+## `> cat /lore/README.md`
+
+> Cada referencia que aparece en los writeups y en anti_hype tiene historia real.
+> Aquí está documentada.
+
+→ [/lore/](./lore/)
 
 ```
 ████████████████████████████████████████
