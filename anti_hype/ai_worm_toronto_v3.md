@@ -1,6 +1,6 @@
-![AI WORM](assets/ai_worm.jpg)
 
-# [ANTI_HYPE::002] — AI_WORM: cuando el malware aprendió a pensar solo
+
+# [ANTI_HYPE::007] — AI_WORM: cuando el malware aprendió a pensar solo
 
 ```bash
 t474-r0b07@terminal:~$ ./scan --target=toronto.aiworm --depth=full
