@@ -1,5 +1,3 @@
-![SPACEX AGUA](assets/spacex_agua.jpg)
-
 # [ANTI_HYPE::008] — SPACEX: $1.77 trillones y un problema de plomería
 
 ```bash
