@@ -1,5 +1,3 @@
-![AGUA GUERRA](assets/agua_guerra.jpg)
-
 # [ANTI_HYPE::009] — H2O: la última guerra no será por petróleo
 
 ```bash
