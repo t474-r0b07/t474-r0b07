@@ -1,4 +1,3 @@
----
 
 ```bash
 t474-r0b07@terminal:~$ ./scan --target=starbucks.ia.hype --depth=full
