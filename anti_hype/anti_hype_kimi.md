@@ -1,6 +1,4 @@
-".
 
----
 
 ```bash
 t474-r0b07@terminal:~$ ./scan --target=kimi.roleplay.hype --depth=full
