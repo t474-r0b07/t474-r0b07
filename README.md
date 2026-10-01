@@ -1,3 +1,15 @@
+<div align="center">
+
+# Tata Robot
+
+**AI Systems Builder · Software · Cybersecurity**
+
+*Building AI systems, software, security tools and experiments at the intersection of code, infrastructure and human–AI collaboration.*
+
+Bolivia 🇧🇴 · GitHub: `t474-r0b07`
+
+</div>
+
 ```
                          
        @@        @@@@  @@@@@@@    :@@@                    @@@@@  @@@       @@@@@  @@@@@@@ 
@@ -10,10 +22,10 @@
 
 ```bash
 $ whoami
-> t474-r0b07
+> Tata Robot (a.k.a. t474-r0b07)
 
 $ cat /etc/identity
-> red teamer in progress | systems builder | Bolivia 🇧🇴
+> systems builder | red teamer in progress | audiovisual experiments | Bolivia 🇧🇴
 
 $ echo $STATUS
 > [■■■■■■■□□□] actively learning. actively breaking things.
@@ -29,78 +41,140 @@ Based in Bolivia. Thinking without borders.
 
 > `dXFpcyBjdXN0b2RpZXQgaXBzb3MgY3VzdG9kZXM=` <!-- 🔍 -->
 
+Tata Robot is the current public name. `t474-r0b07` is the technical identity that came first, and it is still the username, the handle on older repos and the name behind most of the history you will find here. Same person, same terminal, different label. It was an evolution, not a rebrand.
+
+I work where AI systems, ordinary software and security overlap, and I try to keep each of the three honest about the others. I also make audiovisual and narrative experiments with AI, some of them quite strange. They get less space here than the engineering, but they come from the same habits: structure, process and curiosity.
+
+Self-taught, experimental, allergic to hype. Everything below can be checked in a repository, a writeup or a running system.
+
 ---
 
-## `> cat skills.txt`
+## `> ls areas/`
 
-```
-OFFENSIVE         ████████░░  CTF · Forensics · Steganography · Password cracking
-                  ███████░░░  TryHackMe · HackTheBox · OverTheWire
-                  ██████░░░░  Recon · Attack vector analysis · Anomaly detection
+**Professional**
+- AI systems and agent architectures
+- Software engineering (backend, mobile, realtime)
+- Cybersecurity: offensive practice, forensics, threat modeling
+- Systems, infrastructure and automation
 
-DEVELOPMENT       █████████░  Flutter · Dart · Clean Architecture
-                  ████████░░  Supabase · PostgreSQL · Realtime systems
-                  ███████░░░  PWA · Android background services · Threat modeling
-```
+**Research and experimentation**
+- AI infrastructure and multi-agent systems
+- Local models and LLM applications
+- Human–AI collaboration as an engineering problem
+
+**Experimental and creative**
+- Audiovisual, narrative and experimental work with AI (see [experiments](#experiments))
 
 ---
 
 ## `> ls -la projects/`
 
-### 🔴 [`SCCP Command Center`](https://github.com/t474-r0b07/sccp)
-> Tactical law enforcement control platform — WebApp + Mobile + Robust backend  
-> Flutter · Supabase · Clean Architecture · Real-time < 1s  
-> *Built with offensive thinking: GPS spoofing detection, VPN detection, root detection, full audit trail*
+### MPC — Motor de Preproducción Cinematográfica
+*Private repository · ongoing system architecture project*
 
-### 🖥️ [`t474`](https://github.com/t474-r0b07/t474) *(in development)*
-> Narrative hacking game — terminal-based, lore-driven  
-> A game where the interface IS the world.  
-> `// not all puzzles look like puzzles`
+An experimental AI systems platform for film preproduction. It is not a finished product, and it is one of my main technical projects. It is where I test how far a multi-agent architecture can go when it has to keep structured state, track where each piece of information came from and fit into real production workflows.
 
-### 📂 [`ctf-writeups`](https://github.com/t474-r0b07/ctf-writeups) *(building)*
-> Not just the flag — the thinking process.  
-> picoCTF · TryHackMe · OverTheWire · HackTheBox
+`Python` · `FastAPI` · `SQLAlchemy` · `SQLite` · `OpenRouter` · `Ollama` · multi-agent architecture · provenance · structured state
 
-### 📖 [`git4dummies`](https://github.com/t474-r0b07/git4dummies) *(building)*
-> Field notes on Git and GitHub. In Spanish. No generic tutorials.  
-> `// los bits menos significativos son los que más dicen.`
+### SCCP-DTEX
+A real software and cybersecurity project.
 
----
+### SCCP-Mobile
+A real mobile project built with a clean-architecture approach and a realtime backend.
 
-## `> cat incident_archive.log`
+`Flutter` · `Dart` · `Clean Architecture` · `Supabase` · `PostgreSQL` · `Realtime` · PWA/mobile ecosystem
 
-```
-REAL INCIDENTS — field notes
-```
+### CTF Writeups
+Practical evidence of how I work in security: reconnaissance, web security, forensics, steganography and a lot of problem solving. Not just the flag, the thinking process, including the dead ends.  
+`picoCTF · TryHackMe · OverTheWire · HackTheBox`
 
-| date | target | status |
-|------|--------|--------|
-| 2026.01 | prison admin workstation | `[terminated]` |
-| 2026.03 | rogue gateway · OEP-SERECI | `[isolated]` |
-| 2026.04 | VCR surveillance intrusion | `[contained]` |
+→ [ctf-writeups](https://github.com/t474-r0b07/ctf-writeups)
 
-```
-2026.01 — unauthorized remote access on prison administration system.
-          detected via anomaly in active sessions.
+### Git4dummies
+Field notes on Git and GitHub, written in Spanish, without generic tutorials.  
+`// los bits menos significativos son los que más dicen.`
 
-2026.03 — rogue gateway (Xiaomi / MOBILETECBO.LOCAL) performing ARP sweep
-          + DNS hijack against OEP/SERECI assets at institutional fair.
-          isolated. MAC blacklisted.
+→ [git4dummies](https://github.com/t474-r0b07/git4dummies)
 
-2026.04 — intrusion attempt against surveillance recorder.
-          traffic pattern identified. access vector blocked.
-```
+### Hackball
+A historical project from the `t474-r0b07` era. It sits between the old identity and the current one, and it is still worth a look.
+
+→ [hackball](https://github.com/t474-r0b07/hackball)
 
 ---
 
-## `> cat roadmap.txt`
+## `> cat stack.txt`
 
 ```
-currently:  HTB — active player
-focusing:   web exploitation · privilege escalation · forensics
-next:       red team certification
-endgame:    first CVE
+LANGUAGES         Python · FastAPI · SQLAlchemy · JavaScript · Vite · Flutter · Dart
+DATA / INFRA      SQLite · PostgreSQL · Supabase · REST APIs · Linux
+AI                OpenRouter · Ollama · LLM applications · AI agents · orchestration
+SECURITY          Linux · CTF · reconnaissance · web security · forensics
+                  threat modeling · steganography
 ```
+
+---
+
+## `> cat philosophy.md`
+
+- Working prototypes over impressive diagrams.
+- Understanding over abstraction for its own sake.
+- Reproducibility over magic.
+- Documentation over mythology.
+- Experimentation over hype.
+- Security is part of engineering, not a coat of paint applied at the end.
+
+> AI doesn't make engineering less important. It makes the engineering underneath AI more interesting.
+
+---
+
+## `> ./human_x_ai.sh`
+
+I use AI assistants daily, but using them is the smaller part of the story. I also build systems around them, and I study the interaction itself as an engineering problem: what a model can and cannot do, where the state lives, how a piece of information gets traced back to its origin, and what happens when something fails, quietly or not. Capabilities, limitations, state, provenance and failure modes are design inputs, not footnotes.
+
+A model that produces something plausible is the start of the work, not the end of it.
+
+---
+
+## `> cat current_focus.txt`
+
+```
+mpc         experimental AI platform for film preproduction
+agents      architectures · structured state · provenance
+security    practice and documentation
+public      consolidating the infrastructure of these projects
+```
+
+---
+
+## `> cat /anti_hype/README.md`
+
+> Contenido que el algoritmo no te va a recomendar.
+> Análisis sin hype. Referencias reales. Sin tutoriales de 47 pasos.
+
+---
+
+<a id="experiments"></a>
+## `> ls experiments/`
+
+The creative side exists, and it comes after the technical work on purpose. Audiovisual, narrative, and a bit strange.
+
+- **THE WIADDING**: an original AI-generated sci-fi/comedy web series.
+- **[t474](https://github.com/t474-r0b07/t474)**: narrative hacking game, terminal-based and lore-driven. A game where the interface IS the world.  
+  `// not all puzzles look like puzzles`
+- **Piti**
+- **Confesiones de una IA**
+- **Hacks-Fi**
+
+---
+
+## `> ./verify.sh`
+
+- Repositories: here on GitHub, under [`t474-r0b07`](https://github.com/t474-r0b07).
+- Security process: [ctf-writeups](https://github.com/t474-r0b07/ctf-writeups).
+- Technical writing: [git4dummies](https://github.com/t474-r0b07/git4dummies).
+- Historical work: [hackball](https://github.com/t474-r0b07/hackball).
+- MPC is private, so it is not verifiable from here.
 
 ---
 
@@ -112,13 +186,10 @@ endgame:    first CVE
     74 20 64 65 76 69 73 69 6e 67 20 61 20 62 65 74 74 65 72 20 73 74 72 61 74 65
     67 79 20 74 68 61 6e 20 79 6f 75 72 20 6f 70 70 6f 6e 65 6e 74 27 73 2e
 ```
-## `> cat /anti_hype/README.md`
 
-> Contenido que el algoritmo no te va a recomendar.
-> Análisis sin hype. Referencias reales. Sin tutoriales de 47 pasos.
-
-→ [/anti_hype/](./anti_hype/)
 ---
+
+<div align="center">
 
 ```
 █████████████████████████████████████████████████
@@ -129,7 +200,9 @@ endgame:    first CVE
 █████████████████████████████████████████████████
 ```
 
----
+*Not all puzzles look like puzzles.*
+
+</div>
 
 <!--
   "You can't connect the dots looking forward;
