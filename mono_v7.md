@@ -3,23 +3,27 @@ DIRECCIÓN NACIONAL DE INSTRUCCIÓN Y ENSEÑANZA
 UNIVERSIDAD POLICIAL “MCAL. ANTONIO JOSÉ DE SUCRE”
 ESCUELA SUPERIOR DE POLICÍAS
 
-DIPLOMADO EN SEGURIDAD CIUDADANA POLICIAL
+
 
 MONOGRAFÍA FINAL DE GRADUACIÓN
 “SISTEMA DIGITAL PARA EL CONTROL POLICIAL DE MENORES Y PERSONAS CON ORDEN DE BÚSQUEDA EN LAS TRANCAS DEL TRANSPORTE INTERDEPARTAMENTAL DE TARIJA”
 
-Módulo: Gestión e Innovación Tecnológica Aplicada a la Función Policial
-Diplomante: Sr. Sgto. Aparicio Gudiño Ronald Cenolfo
-Docente de Taller: M.Sc. DAEN Víctor Hugo Humérez Méndez
-Tutor Institucional: Por designación del Consejo Académico de UNIPOL
+Módulo: 		Gestión e Innovación Tecnológica Aplicada a la Función Policial
+Diplomante: 		Sr. Sgto. Aparicio Gudiño Ronald Cenolfo
+Docente de Taller: 	My.Sc. DAEN Víctor Hugo Humérez Méndez
+Tutor Institucional: 	Por designación del Consejo Académico de UNIPOL
 
 Tarija, Bolivia — 2026
 
 ACTA DE EVALUACIÓN Y CALIFICACIÓN
+
 En la ciudad de Tarija, a los ____ días del mes de ____________ de 2026, se reunió el Tribunal Evaluador designado por la Universidad Policial “Mcal. Antonio José de Sucre” (UNIPOL) para proceder a la evaluación de la Monografía de Graduación titulada:
+
 “Sistema digital para el control policial de menores y personas con orden de búsqueda en las trancas del transporte interdepartamental de Tarija”
+
 Presentada por el Diplomante: Sr. Sgto. Aparicio Gudiño Ronald Cenolfo, para optar la certificación del Diplomado en Seguridad Ciudadana Policial.
 Realizada la evaluación del documento escrito y de la defensa oral conforme al Reglamento General de Graduación de la UNIPOL, se consigna la siguiente calificación:
+
 Criterio de Evaluación
 Puntaje Máximo
 Puntaje Obtenido
@@ -34,45 +38,29 @@ CALIFICACIÓN TOTAL FINAL
 ____ Puntos
 
 Resultado Final:  [   ] APROBADO CON EXCELENCIA   [   ] APROBADO   [   ] REPROBADO
-
 Firmas de los Miembros del Tribunal Evaluador:
+
+
+
 _____________________________________
 Presidente del Tribunal Evaluador
 _____________________________________
 Primer Vocal Evaluador
+
+
 _____________________________________
 Segundo Vocal Evaluador
 _____________________________________
 Tutor Institucional de Monografía
 
-DECLARACIÓN JURADA DE AUTORÍA Y ORIGINALIDAD
-Yo, Sr. Sgto. Aparicio Gudiño Ronald Cenolfo, con C.I. N.º ____________ Tarija, estudiante del Diplomado en Seguridad Ciudadana Policial de la Universidad Policial “Mcal. Antonio José de Sucre” (UNIPOL), declaro libre y voluntariamente bajo juramento lo siguiente:
-1. Que la presente Monografía de Graduación titulada “Sistema digital para el control policial de menores y personas con orden de búsqueda en las trancas del transporte interdepartamental de Tarija”, constituye un trabajo de investigación original e inédito de mi propia autoría.
-2. Que la investigación respeta de manera estricta los principios de honestidad académica, habiendo citado minuciosamente todas las fuentes bibliográficas, normativas, constitucionales y documentales utilizadas en el texto conforme a las Normas APA.
-3. Que el trabajo no contiene plagio parcial ni total, ni ha sido presentado previamente para optar ningún otro grado o título académico en esta u otra institución nacional o extranjera.
-4. Que asumo total y exclusiva responsabilidad legal y académica por el contenido, afirmaciones, análisis y datos desarrollados en el presente trabajo ante las autoridades de la UNIPOL y del Sistema Educativo Policial.
-
-_________________________________________
-Sr. Sgto. Aparicio Gudiño Ronald Cenolfo
-AUTOR Y DIPLOMANTE — UNIPOL
-
-DEDICATORIA
-A mi amada familia, por su incondicional apoyo, paciencia y fortaleza durante cada etapa de mi formación policial y profesional, siendo el pilar fundamental que impulsa mi vocación de servicio a la Patria.
-A mis camaradas de la Policía Boliviana, en especial a aquellos que cumplen servicio abnegado día y noche en los puestos de control y trancas de carretera, resguardando la seguridad y vida de las familias bolivianas.
-
-AGRADECIMIENTOS
-A la Universidad Policial “Mcal. Antonio José de Sucre” (UNIPOL) y a la Escuela Superior de Policías, por brindarme la oportunidad de profundizar mis conocimientos técnicos y académicos en la gestión e innovación tecnológica aplicadas a la función policial.
-Al M.Sc. DAEN Víctor Hugo Humérez Méndez, docente del Taller de Monografía, y a mi Tutor Institucional, por sus valiosos consejos orientadores, rigor metodológico y guía permanente en la estructuración de esta propuesta.
-Al Comando Departamental de Policía de Tarija y a la Dirección Departamental de Tránsito, por facilitar la información y el contexto operativo necesarios para diagnosticar las necesidades reales del control en carreteras.
-
-ÍNDICE GENERAL DEFINITIVO
-(Nota de formato: El siguiente índice automatizado actualizará la paginación exacta al abrir el documento en Microsoft Word o Google Docs mediante clic derecho -> Actualizar Campos).
 
 
 
-CAPÍTULO I
-INTRODUCCIÓN Y MARCO DE INVESTIGACIÓN
-Resumen, Planteamiento del Problema, Justificación y Objetivos
+
+
+
+
+
 
 1. Resumen ejecutivo
 La presente monografía analiza el control policial de menores de edad y de personas con requerimientos de búsqueda o aprehensión en el transporte interdepartamental, con delimitación territorial en el departamento de Tarija y atención a los puntos de control de las rutas Tarija–Yacuiba y Tarija–Potosí, así como a la terminal de buses de la ciudad de Tarija. El estudio se sitúa en el periodo 2025–2026 y considera antecedentes documentales desde 2022.
@@ -82,71 +70,105 @@ Como respuesta propositiva se presenta VIGÍA, denominación de trabajo para un 
 La propuesta no atribuye al software facultades de aprehensión, retención ni determinación de responsabilidad. Una alerta informática debe considerarse únicamente una señal para revisión humana y verificación por los canales competentes; cualquier medida policial debe fundarse en la normativa aplicable, la autenticidad y vigencia del requerimiento y la actuación de la autoridad competente. También se consideran la protección de datos personales, el interés superior de niñas, niños y adolescentes, el debido proceso, la seguridad de la información, la conectividad limitada y la necesidad de capacitación.
 Se concluye que una herramienta digital podría contribuir a mejorar la oportunidad, la trazabilidad y la coordinación del control si se diseña con límites jurídicos explícitos y se prueba mediante un piloto autorizado y evaluable. La viabilidad operativa no puede darse por demostrada únicamente a partir del diseño técnico: requiere validación institucional, jurídica, funcional, presupuestaria y de protección de datos.
 Palabras clave:  control policial, transporte interdepartamental, niñez y adolescencia, órdenes de búsqueda, verificación digital, trazabilidad, interoperabilidad, VIGÍA.
-2. Índice general
-    • Resumen ejecutivo
-    • Índice general
-    • Introducción
-3.1. Antecedentes
-3.2. Planteamiento del problema
-3.3. Formulación del problema
-3.4. Delimitación
-3.5. Alcances y limitaciones
-    • Justificación
-    • Objetivos
-5.1. Objetivo general
-5.2. Objetivos específicos
-    • Sustento teórico y conceptual
-6.1. Control policial en el transporte interdepartamental
-6.2. Protección de niñas, niños y adolescentes durante los viajes
-6.3. Requerimientos de búsqueda y actuación policial
-6.4. Gestión de información, trazabilidad e interoperabilidad
-6.5. Tecnología como apoyo a la decisión humana
-6.6. Protección de datos y seguridad de la información
-    • Marco normativo e institucional
-7.1. Constitución Política del Estado
-7.2. Normativa de niñez y adolescencia
-7.3. Autorizaciones de viaje y controles
-7.4. Código de Procedimiento Penal y requerimientos de búsqueda
-7.5. Competencias institucionales y coordinación
-7.6. Matriz normativa preliminar
-    • Diagnóstico del problema
-8.1. Proceso general de control que debe examinarse
-8.2. Brechas y riesgos identificados documentalmente
-8.3. Antecedentes reportados en Tarija
-8.4. Información pendiente de verificación institucional
-    • Metodología
-9.1. Enfoque y tipo de investigación
-9.2. Métodos y técnicas
-9.3. Unidades de análisis y selección de informantes
-9.4. Instrumentos propuestos
-9.5. Procedimiento de análisis
-9.6. Consideraciones éticas y limitaciones
-    • Propuesta técnica: VIGÍA
-10.1. Propósito y alcance
-10.2. Principios de diseño
-10.3. Usuarios y responsabilidades
-10.4. Módulos funcionales propuestos
-10.5. Flujo operativo de verificación
-10.6. Requisitos funcionales y no funcionales
-10.7. Tratamiento de alertas y falsos positivos
-10.8. Seguridad, privacidad y auditoría
-10.9. Operación con conectividad limitada
-10.10. Arquitectura conceptual y dependencias
-    • Protocolo policial propuesto
-11.1. Verificación de viaje de menores
-11.2. Consulta de requerimientos vigentes
-11.3. Resolución de discrepancias
-11.4. Registro y cierre de la actuación
-11.5. Incidentes, escalamiento y continuidad
-    • Factibilidad, riesgos y evaluación
-12.1. Factibilidad jurídica e institucional
-12.2. Factibilidad técnica y operativa
-12.3. Riesgos y medidas de mitigación
-12.4. Propuesta de piloto y criterios de evaluación
-    • Conclusiones
-    • Recomendaciones
-    • Referencias bibliográficas
-    • Anexos propuestos
+
+
+ÍNDICE GENERAL
+ACTA DE EVALUACIÓN Y CALIFICACIÓN	2
+3. Introducción	9
+3.1. Antecedentes	9
+3.2. Planteamiento del problema	9
+3.3. Formulación del problema	10
+3.4. Delimitación	10
+3.5. Alcances y limitaciones	10
+4. Justificación	11
+4.1. Justificación institucional	11
+4.2. Justificación social	11
+4.3. Justificación técnica	11
+4.4. Justificación académica	11
+5. Objetivos	11
+5.1. Objetivo general	11
+5.2. Objetivos específicos	11
+6. Sustento teórico y conceptual	14
+6.1. Control policial en el transporte interdepartamental	14
+6.2. Protección de niñas, niños y adolescentes durante los viajes	14
+6.3. Requerimientos de búsqueda y actuación policial	14
+6.4. Gestión de información, trazabilidad e interoperabilidad	14
+6.5. Tecnología como apoyo a la decisión humana	15
+6.6. Protección de datos y seguridad de la información	15
+7. Marco normativo e institucional	15
+7.1. Constitución Política del Estado	15
+7.2. Ley N.º 548 y reglamentación de niñez y adolescencia	15
+7.3. Autorizaciones de viaje y controles	16
+7.4. Código de Procedimiento Penal y requerimientos de búsqueda	16
+7.5. Competencias institucionales y coordinación	16
+7.6. Matriz normativa preliminar	17
+8. Diagnóstico del problema	19
+8.1. Proceso general de control que debe examinarse	19
+8.2. Brechas y riesgos identificados documentalmente	19
+8.3. Antecedentes reportados en Tarija	19
+8.4. Información pendiente de verificación institucional	20
+9. Metodología	20
+9.1. Enfoque y tipo de investigación	20
+9.2. Métodos y técnicas	20
+9.3. Unidades de análisis y selección de informantes	21
+9.4. Instrumentos propuestos	21
+9.5. Procedimiento de análisis	21
+9.6. Consideraciones éticas y limitaciones	21
+10. Propuesta técnica: VIGÍA	23
+10.1. Propósito y alcance	23
+10.2. Principios de diseño	23
+10.3. Usuarios y responsabilidades	23
+10.4. Módulos funcionales propuestos	24
+10.4.1. Registro o manifiesto del servicio	24
+10.4.2. Verificación de autorización de viaje	24
+10.4.3. Consulta de requerimientos vigentes	24
+10.4.4. Interfaz de consulta policial	24
+10.4.5. Registro de auditoría	24
+10.4.6. Panel de supervisión	24
+10.5. Flujo operativo de verificación	24
+10.6. Requisitos funcionales y no funcionales	25
+Requisitos funcionales	25
+Requisitos no funcionales	25
+10.7. Tratamiento de alertas y falsos positivos	26
+10.8. Seguridad, privacidad y auditoría	26
+10.9. Operación con conectividad limitada	27
+10.10. Arquitectura conceptual y dependencias	27
+11. Protocolo policial propuesto	27
+11.1. Verificación de viaje de menores	27
+11.2. Consulta de requerimientos vigentes	27
+11.3. Resolución de discrepancias	28
+11.4. Registro y cierre de la actuación	28
+11.5. Incidentes, escalamiento y continuidad	28
+12. Factibilidad, riesgos y evaluación	30
+12.1. Factibilidad jurídica e institucional	30
+12.2. Factibilidad técnica y operativa	30
+12.3. Riesgos y medidas de mitigación	30
+12.4. Propuesta de piloto y criterios de evaluación	31
+13. Conclusiones	31
+14. Recomendaciones	32
+15. Referencias bibliográficas	34
+16. Anexos propuestos	36
+Anexo A. Matriz de revisión normativa	36
+Anexo B. Guía de entrevista propuesta	37
+Anexo C. Ficha de revisión documental	37
+Anexo D. Matriz de requisitos del prototipo	38
+Anexo E. Solicitud de información institucional: temas sugeridos	38
+
+
+
+
+
+
+
+
+
+
+
+
+CAPÍTULO I
+INTRODUCCIÓN Y MARCO DE INVESTIGACIÓN
+Resumen, Planteamiento del Problema, Justificación y Objetivos
+
 3. Introducción
 El transporte interdepartamental constituye una actividad esencial para la movilidad de la población y requiere controles compatibles con la seguridad, los derechos fundamentales y la continuidad del servicio. En este entorno, las verificaciones relacionadas con el viaje de niñas, niños y adolescentes y las consultas sobre requerimientos judiciales o fiscales exigen información correcta, procedimientos claros y coordinación entre las instituciones competentes.
 La digitalización puede facilitar la consulta y el registro de información, pero no sustituye la competencia legal de la autoridad ni convierte una coincidencia informática en una decisión jurídica. Por ello, la cuestión central no consiste únicamente en diseñar una aplicación, sino en establecer qué información se necesita, quién puede acceder a ella, qué autoridad la valida, cómo se registra la actuación y qué garantías deben respetarse.
@@ -188,9 +210,21 @@ La monografía permite aplicar herramientas de análisis normativo, diagnóstico
 5.1. Objetivo general
 Proponer un sistema digital de verificación que mejore el control policial de menores y de personas con orden de búsqueda en las trancas del transporte interdepartamental de Tarija.
 5.2. Objetivos específicos
-    • Describir el marco jurídico y los procedimientos aplicables al control de menores y a la verificación de requerimientos de búsqueda en los puntos de control del transporte interdepartamental.
-    • Diagnosticar las limitaciones de información, coordinación institucional y trazabilidad que puedan presentarse en los procesos de verificación, diferenciando los hallazgos documentados de los aspectos pendientes de confirmación.
-    • Presentar el diseño funcional de VIGÍA y definir un protocolo propuesto de uso, escalamiento y auditoría para la verificación en los puntos de control.
+Describir el marco jurídico y los procedimientos aplicables al control de menores y a la verificación de requerimientos de búsqueda en los puntos de control del transporte interdepartamental.
+Diagnosticar las limitaciones de información, coordinación institucional y trazabilidad que puedan presentarse en los procesos de verificación, diferenciando los hallazgos documentados de los aspectos pendientes de confirmación.
+Presentar el diseño funcional de VIGÍA y definir un protocolo propuesto de uso, escalamiento y auditoría para la verificación en los puntos de control.
+
+
+
+
+
+
+
+
+
+
+
+
 
 CAPÍTULO II
 SUSTENTO TEÓRICO Y MARCO NORMATIVO
@@ -235,13 +269,14 @@ La redacción final debe evitar una afirmación general según la cual cualquier
 Para el diseño de VIGÍA, la consecuencia práctica es que cada consulta debe identificar el tipo de requerimiento y su fuente. Si no existe una respuesta oficial o la información no puede confirmarse, el sistema debe mostrar “consulta no disponible” o “requiere verificación”, nunca presentar la ausencia de datos como certificación negativa.
 7.5. Competencias institucionales y coordinación
 La solución propuesta requiere diferenciar, al menos, las responsabilidades siguientes, sujetas a confirmación jurídica e institucional:
-    • Policía Boliviana:  realizar controles y actuaciones dentro de sus atribuciones, consultar fuentes a las que tenga acceso autorizado y registrar las actuaciones que correspondan.
-    • Defensoría de la Niñez y Adolescencia:  intervenir en el ámbito de protección y en los procedimientos de autorización que le correspondan conforme a normativa vigente.
-    • Ministerio Público y autoridad judicial competente:  emitir, administrar o comunicar los requerimientos que correspondan dentro de sus competencias.
-    • Empresas de transporte:  mantener y facilitar los registros de pasajeros que sean exigibles conforme a la normativa y los procedimientos aplicables, con resguardo de la información.
-    • ATT y autoridades competentes del transporte:  ejercer las funciones de regulación, fiscalización o coordinación que legalmente les correspondan.
-    • Administradores de la plataforma:  operar el componente tecnológico conforme a autorización, seguridad, trazabilidad y límites de acceso definidos.
+Policía Boliviana:  realizar controles y actuaciones dentro de sus atribuciones, consultar fuentes a las que tenga acceso autorizado y registrar las actuaciones que correspondan.
+Defensoría de la Niñez y Adolescencia:  intervenir en el ámbito de protección y en los procedimientos de autorización que le correspondan conforme a normativa vigente.
+Ministerio Público y autoridad judicial competente:  emitir, administrar o comunicar los requerimientos que correspondan dentro de sus competencias.
+Empresas de transporte:  mantener y facilitar los registros de pasajeros que sean exigibles conforme a la normativa y los procedimientos aplicables, con resguardo de la información.
+ATT y autoridades competentes del transporte:  ejercer las funciones de regulación, fiscalización o coordinación que legalmente les correspondan.
+Administradores de la plataforma:  operar el componente tecnológico conforme a autorización, seguridad, trazabilidad y límites de acceso definidos.
 Esta distribución es una matriz conceptual inicial, no una declaración definitiva de competencias. Debe validarse con normativa, protocolos y responsables institucionales antes de convertirla en un procedimiento obligatorio.
+
 7.6. Matriz normativa preliminar
 Norma o instrumento
 Relación con la investigación
@@ -275,6 +310,10 @@ Requisitos formales de la monografía
 Verificar edición vigente, estructura y normas de citación
 
 
+
+
+
+
 CAPÍTULO III
 DIAGNÓSTICO OPERATIVO Y METODOLOGÍA
 Procesos de Control en Trancas, Brechas y Diseño Metodológico
@@ -282,12 +321,12 @@ Procesos de Control en Trancas, Brechas y Diseño Metodológico
 8. Diagnóstico del problema
 8.1. Proceso general de control que debe examinarse
 Para analizar el proceso actual, se propone distinguir etapas que pueden estar distribuidas entre distintos actores:
-    • Preparación del viaje:  la empresa organiza el servicio y genera los registros de pasajeros que correspondan.
-    • Verificación de documentación:  en el punto y momento previstos por el procedimiento, el personal autorizado revisa la documentación requerida y determina si corresponde una autorización específica para el viaje de un menor.
-    • Consulta de requerimientos:  cuando la función policial y el procedimiento lo permiten, el personal consulta la fuente institucional autorizada para comprobar la existencia y vigencia de un requerimiento.
-    • Resolución de discrepancias:  se verifica identidad, autenticidad y vigencia; una inconsistencia no se trata como conclusión automática.
-    • Actuación institucional:  el personal adopta las medidas que correspondan dentro de sus atribuciones y activa a la entidad competente cuando sea necesario.
-    • Registro y cierre:  se deja constancia de la verificación y del resultado permitido, con datos mínimos y controles de acceso.
+Preparación del viaje:  la empresa organiza el servicio y genera los registros de pasajeros que correspondan.
+Verificación de documentación:  en el punto y momento previstos por el procedimiento, el personal autorizado revisa la documentación requerida y determina si corresponde una autorización específica para el viaje de un menor.
+Consulta de requerimientos:  cuando la función policial y el procedimiento lo permiten, el personal consulta la fuente institucional autorizada para comprobar la existencia y vigencia de un requerimiento.
+Resolución de discrepancias:  se verifica identidad, autenticidad y vigencia; una inconsistencia no se trata como conclusión automática.
+Actuación institucional:  el personal adopta las medidas que correspondan dentro de sus atribuciones y activa a la entidad competente cuando sea necesario.
+Registro y cierre:  se deja constancia de la verificación y del resultado permitido, con datos mínimos y controles de acceso.
 Esta secuencia es un modelo analítico para orientar el diagnóstico. No debe describirse como el procedimiento actualmente aplicado en todos los puntos de Tarija hasta que se contraste mediante documentación oficial, entrevistas autorizadas u observación directa.
 8.2. Brechas y riesgos identificados documentalmente
 A partir del problema definido y de los antecedentes públicos consultados, pueden formularse las siguientes áreas de riesgo que requieren contraste:
@@ -304,14 +343,14 @@ También se identificaron publicaciones de 2021 y 2026 sobre controles de viajes
 Por rigor académico, los antecedentes periodísticos deben complementarse, en lo posible, con solicitudes de información al Comando Departamental de Policía, la Defensoría de la Niñez y Adolescencia y la ATT. Si esas respuestas no se obtienen, la monografía debe decirlo y limitar sus conclusiones a la evidencia documental disponible.
 8.4. Información pendiente de verificación institucional
 Para convertir el diagnóstico preliminar en un diagnóstico empírico sólido, se requiere gestionar información oficial, agregada y no identificable, sobre:
-    • Procedimientos vigentes de control en terminales y puntos de carretera.
-    • Autoridades responsables de revisar permisos de viaje y circunstancias en las que corresponde exigirlos.
-    • Canales actualmente autorizados para consultar requerimientos judiciales o fiscales.
-    • Existencia de registros de control, campos que contienen y plazos de conservación.
-    • Cantidad agregada de controles, inconsistencias detectadas y derivaciones institucionales durante un periodo definido, si esos datos están disponibles.
-    • Procedimiento aplicado cuando no hay conectividad o cuando la fuente de consulta no responde.
-    • Capacitación recibida por el personal y dificultades operativas reportadas.
-    • Condiciones legales y técnicas para compartir datos entre instituciones.
+Procedimientos vigentes de control en terminales y puntos de carretera.
+Autoridades responsables de revisar permisos de viaje y circunstancias en las que corresponde exigirlos.
+Canales actualmente autorizados para consultar requerimientos judiciales o fiscales.
+Existencia de registros de control, campos que contienen y plazos de conservación.
+Cantidad agregada de controles, inconsistencias detectadas y derivaciones institucionales durante un periodo definido, si esos datos están disponibles.
+Procedimiento aplicado cuando no hay conectividad o cuando la fuente de consulta no responde.
+Capacitación recibida por el personal y dificultades operativas reportadas.
+Condiciones legales y técnicas para compartir datos entre instituciones.
 No deben incluirse nombres, números de documento, datos de menores ni información reservada en anexos académicos. Si una institución entrega información restringida, su uso debe ajustarse a la autorización otorgada.
 9. Metodología
 9.1. Enfoque y tipo de investigación
@@ -329,23 +368,34 @@ Las unidades de análisis son: a) normas y procedimientos aplicables; b) etapas 
 Si se realizan entrevistas, la selección será intencional y no probabilística, priorizando informantes que conozcan directamente los procedimientos. El número de participantes deberá corresponder a los permisos disponibles y al alcance real del trabajo; no debe fijarse un tamaño ficticio ni presentarse como representativo de todo el departamento.
 9.4. Instrumentos propuestos
 Se recomienda utilizar tres instrumentos, previa autorización cuando corresponda:
-    • Guía de entrevista semiestructurada:  funciones del entrevistado, flujo de control, fuentes consultadas, dificultades, tratamiento de excepciones, trazabilidad y necesidades de capacitación.
-    • Ficha de revisión documental:  institución emisora, título del documento, fecha, vigencia, procedimiento regulado y relevancia para la investigación.
-    • Matriz de observación de proceso:  etapa, actor, información requerida, medio de verificación, tiempo aproximado si se mide de forma autorizada, resultado, registro y situación excepcional.
+Guía de entrevista semiestructurada:  funciones del entrevistado, flujo de control, fuentes consultadas, dificultades, tratamiento de excepciones, trazabilidad y necesidades de capacitación.
+Ficha de revisión documental:  institución emisora, título del documento, fecha, vigencia, procedimiento regulado y relevancia para la investigación.
+Matriz de observación de proceso:  etapa, actor, información requerida, medio de verificación, tiempo aproximado si se mide de forma autorizada, resultado, registro y situación excepcional.
 Los instrumentos deben evitar solicitar información reservada, credenciales, datos de casos en curso o información personal de pasajeros. Las respuestas se presentarán de manera agregada y anonimizada.
 9.5. Procedimiento de análisis
 El análisis debe realizarse en las siguientes fases:
-    • Recopilar y clasificar las fuentes normativas, institucionales, periodísticas y técnicas.
-    • Verificar la autenticidad, fecha y alcance de las normas y publicaciones utilizadas.
-    • Construir una matriz de competencias, requisitos y fuentes de datos.
-    • Describir el proceso de control a partir de documentos y, cuando sea posible, información de campo autorizada.
-    • Separar hallazgos confirmados, hipótesis de trabajo y vacíos de información.
-    • Derivar requisitos funcionales y no funcionales para VIGÍA.
-    • Diseñar el protocolo y los criterios de evaluación.
-    • Revisar coherencia entre pregunta, objetivos, evidencia, propuesta y conclusiones.
+Recopilar y clasificar las fuentes normativas, institucionales, periodísticas y técnicas.
+Verificar la autenticidad, fecha y alcance de las normas y publicaciones utilizadas.
+Construir una matriz de competencias, requisitos y fuentes de datos.
+Describir el proceso de control a partir de documentos y, cuando sea posible, información de campo autorizada.
+Separar hallazgos confirmados, hipótesis de trabajo y vacíos de información.
+Derivar requisitos funcionales y no funcionales para VIGÍA.
+Diseñar el protocolo y los criterios de evaluación.
+Revisar coherencia entre pregunta, objetivos, evidencia, propuesta y conclusiones.
 9.6. Consideraciones éticas y limitaciones
 La investigación debe respetar la confidencialidad de la información institucional y la privacidad de las personas. No corresponde recopilar datos identificables de menores para demostrar el problema. Cualquier entrevista requiere informar su finalidad y obtener la autorización correspondiente.
 Si no se obtienen datos oficiales ni se completa trabajo de campo, esa limitación debe declararse expresamente. En ese caso, las conclusiones se limitarán a la revisión documental y al diseño propositivo. La falta de información pública no permite afirmar que una institución carezca de procedimientos; únicamente permite señalar que no fue posible verificarlos con las fuentes consultadas.
+
+
+
+
+
+
+
+
+
+
+
 
 CAPÍTULO IV
 PROPUESTA TÉCNICA VIGÍA Y PROTOCOLO POLICIAL
@@ -355,20 +405,20 @@ Arquitectura del Sistema, Módulos Funcionales y Protocolos de Actuación
 10.1. Propósito y alcance
 VIGÍA — Sistema Digital de Verificación Integrada de Gestión e Identificación en Tránsito — se propone como una herramienta de apoyo para organizar verificaciones relacionadas con el transporte interdepartamental. Su objetivo es facilitar el acceso autorizado a información necesaria, registrar las consultas y apoyar la coordinación, sin sustituir las decisiones de los funcionarios ni las atribuciones de las entidades titulares de los datos.
 La propuesta comprende dos procesos diferenciados:
-    • Verificación de autorizaciones de viaje de menores cuando sean exigibles.
-    • Consulta de requerimientos de búsqueda o aprehensión desde una fuente oficial y autorizada.
+Verificación de autorizaciones de viaje de menores cuando sean exigibles.
+Consulta de requerimientos de búsqueda o aprehensión desde una fuente oficial y autorizada.
 El registro de pasajeros puede servir como elemento de contexto para el control, siempre que su recopilación y tratamiento estén legalmente respaldados. No debe asumirse que un manifiesto por sí solo autoriza consultas masivas de antecedentes ni que todo pasajero deba someterse a las mismas verificaciones sin una base normativa definida.
 10.2. Principios de diseño
-    • Legalidad:  cada consulta debe tener finalidad y autorización identificables.
-    • Intervención humana:  ninguna alerta genera automáticamente una detención, retención o declaración de irregularidad.
-    • Minimización de datos:  se recopilan y muestran solo los datos necesarios para la finalidad autorizada.
-    • Trazabilidad:  se registra quién consulta, cuándo, con qué finalidad y cuál fue el resultado técnico.
-    • Calidad y actualidad:  se muestra la fuente y la hora de consulta; se distingue un resultado actual de una copia local.
-    • Seguridad por diseño:  se incorporan controles de acceso, autenticación, cifrado y auditoría.
-    • Continuidad operativa:  las fallas de conectividad deben tener un procedimiento seguro y explícito.
-    • Interoperabilidad autorizada:  no se conectan bases institucionales sin acuerdo, habilitación legal y validación técnica.
-    • Proporcionalidad:  la respuesta se limita a lo necesario y permitido en cada supuesto.
-    • Evaluabilidad:  el piloto debe tener indicadores, criterios de aceptación y condiciones para detenerse si produce riesgos.
+Legalidad:  cada consulta debe tener finalidad y autorización identificables.
+Intervención humana:  ninguna alerta genera automáticamente una detención, retención o declaración de irregularidad.
+Minimización de datos:  se recopilan y muestran solo los datos necesarios para la finalidad autorizada.
+Trazabilidad:  se registra quién consulta, cuándo, con qué finalidad y cuál fue el resultado técnico.
+Calidad y actualidad:  se muestra la fuente y la hora de consulta; se distingue un resultado actual de una copia local.
+Seguridad por diseño:  se incorporan controles de acceso, autenticación, cifrado y auditoría.
+Continuidad operativa:  las fallas de conectividad deben tener un procedimiento seguro y explícito.
+Interoperabilidad autorizada:  no se conectan bases institucionales sin acuerdo, habilitación legal y validación técnica.
+Proporcionalidad:  la respuesta se limita a lo necesario y permitido en cada supuesto.
+Evaluabilidad:  el piloto debe tener indicadores, criterios de aceptación y condiciones para detenerse si produce riesgos.
 10.3. Usuarios y responsabilidades
 Personal policial habilitado.  Realiza consultas dentro de sus funciones, verifica la identidad mediante procedimientos autorizados y registra la actuación.
 Personal autorizado de terminal o empresa.  Registra los datos de pasajeros que correspondan y presenta la información exigida por el procedimiento. No debe acceder a requerimientos policiales ni a datos sensibles que no necesite para su función.
@@ -395,39 +445,42 @@ No debe conservarse información indefinidamente por comodidad técnica. Los pla
 Puede ofrecer indicadores agregados sobre número de consultas, consultas no disponibles, tiempos de respuesta, discrepancias y derivaciones. Los informes de supervisión deben evitar exponer identidades de menores o personas consultadas, salvo que exista una necesidad y autorización legal expresa.
 10.5. Flujo operativo de verificación
 El flujo propuesto es el siguiente:
-    • El funcionario se autentica con una cuenta individual y verifica que se encuentra autorizado para la consulta.
-    • Identifica la finalidad de la actuación y selecciona el tipo de verificación pertinente.
-    • Consulta únicamente los datos necesarios para ese propósito.
-    • El sistema consulta la fuente autorizada, si está disponible, y muestra fuente, hora y estado técnico.
-    • Si existe una coincidencia potencial o una discrepancia, el funcionario realiza las comprobaciones de identidad y vigencia que correspondan.
-    • Si la información no puede confirmarse, el sistema muestra claramente que la consulta no está disponible o requiere verificación adicional.
-    • El funcionario aplica el procedimiento institucional vigente y, cuando corresponda, contacta a la autoridad competente.
-    • Se registra el resultado de la actuación con el mínimo de datos necesario.
-    • El caso se cierra y queda disponible para auditoría autorizada.
+El funcionario se autentica con una cuenta individual y verifica que se encuentra autorizado para la consulta.
+Identifica la finalidad de la actuación y selecciona el tipo de verificación pertinente.
+Consulta únicamente los datos necesarios para ese propósito.
+El sistema consulta la fuente autorizada, si está disponible, y muestra fuente, hora y estado técnico.
+Si existe una coincidencia potencial o una discrepancia, el funcionario realiza las comprobaciones de identidad y vigencia que correspondan.
+Si la información no puede confirmarse, el sistema muestra claramente que la consulta no está disponible o requiere verificación adicional.
+El funcionario aplica el procedimiento institucional vigente y, cuando corresponda, contacta a la autoridad competente.
+Se registra el resultado de la actuación con el mínimo de datos necesario.
+El caso se cierra y queda disponible para auditoría autorizada.
 El flujo debe adaptarse a los procedimientos oficiales. No debe utilizarse como instrucción operativa hasta que sea revisado y aprobado por las instancias competentes.
 10.6. Requisitos funcionales y no funcionales
 Requisitos funcionales
-    • RF-01: autenticar individualmente a cada usuario habilitado.
-    • RF-02: aplicar permisos según el rol y la finalidad de uso.
-    • RF-03: registrar la consulta de manera trazable.
-    • RF-04: permitir la verificación de autorizaciones de viaje solo cuando exista fuente y procedimiento autorizados.
-    • RF-05: permitir la consulta de requerimientos únicamente si existe integración oficial habilitada.
-    • RF-06: diferenciar resultado confirmado, coincidencia pendiente y consulta no disponible.
-    • RF-07: permitir el registro de una revisión humana y de la derivación correspondiente.
-    • RF-08: generar reportes agregados para supervisión.
-    • RF-09: registrar errores de consulta y eventos de seguridad.
-    • RF-10: permitir la corrección de errores conforme a un procedimiento autorizado, sin borrar la trazabilidad de la rectificación.
+RF-01: autenticar individualmente a cada usuario habilitado.
+RF-02: aplicar permisos según el rol y la finalidad de uso.
+RF-03: registrar la consulta de manera trazable.
+RF-04: permitir la verificación de autorizaciones de viaje solo cuando exista fuente y procedimiento autorizados.
+RF-05: permitir la consulta de requerimientos únicamente si existe integración oficial habilitada.
+RF-06: diferenciar resultado confirmado, coincidencia pendiente y consulta no disponible.
+RF-07: permitir el registro de una revisión humana y de la derivación correspondiente.
+RF-08: generar reportes agregados para supervisión.
+RF-09: registrar errores de consulta y eventos de seguridad.
+RF-10: permitir la corrección de errores conforme a un procedimiento autorizado, sin borrar la trazabilidad de la rectificación.
 Requisitos no funcionales
-    • Seguridad:  autenticación robusta, mínimo privilegio, cifrado y gestión segura de sesiones.
-    • Disponibilidad:  informar claramente cuándo el sistema o una fuente externa no responde.
-    • Integridad:  proteger los registros contra modificaciones no autorizadas.
-    • Usabilidad:  interfaces claras para uso en condiciones operativas y con capacitación razonable.
-    • Accesibilidad:  lectura clara, controles comprensibles y funcionamiento en dispositivos autorizados.
-    • Interoperabilidad:  interfaces documentadas y acuerdos técnicos y jurídicos previos.
-    • Mantenibilidad:  componentes documentados, pruebas y control de cambios.
-    • Privacidad:  minimización de datos, finalidad definida y conservación limitada.
-    • Auditabilidad:  posibilidad de reconstruir accesos y modificaciones por personal autorizado.
-    • Continuidad:  procedimientos manuales de respaldo ante fallas, sin presentar datos desactualizados como confirmación vigente.
+Seguridad:  autenticación robusta, mínimo privilegio, cifrado y gestión segura de sesiones.
+Disponibilidad:  informar claramente cuándo el sistema o una fuente externa no responde.
+Integridad:  proteger los registros contra modificaciones no autorizadas.
+Usabilidad:  interfaces claras para uso en condiciones operativas y con capacitación razonable.
+Accesibilidad:  lectura clara, controles comprensibles y funcionamiento en dispositivos autorizados.
+Interoperabilidad:  interfaces documentadas y acuerdos técnicos y jurídicos previos.
+Mantenibilidad:  componentes documentados, pruebas y control de cambios.
+Privacidad:  minimización de datos, finalidad definida y conservación limitada.
+Auditabilidad:  posibilidad de reconstruir accesos y modificaciones por personal autorizado.
+Continuidad:  procedimientos manuales de respaldo ante fallas, sin presentar datos desactualizados como confirmación vigente.
+
+
+
 10.7. Tratamiento de alertas y falsos positivos
 Las alertas deben funcionar como señales de revisión, no como decisiones automáticas. Se propone una clasificación de estados:
 Estado
@@ -449,20 +502,21 @@ Resultado no concluyente
 La fuente devolvió datos insuficientes o ambiguos
 Escalar para revisión humana y dejar constancia de la incertidumbre
 
+
 La interfaz debe evitar colores o mensajes que sugieran culpabilidad. La alerta no debe ordenar “detener”, “retener” o “aprehender”. Cualquier medida debe sustentarse en una base legal independiente y ser adoptada por la autoridad competente.
 10.8. Seguridad, privacidad y auditoría
 Antes de cualquier piloto, deben definirse:
-    • Responsable institucional de cada conjunto de datos.
-    • Base jurídica y finalidad de cada consulta.
-    • Categorías de usuarios autorizados y proceso para dar o retirar permisos.
-    • Datos que se muestran a cada rol.
-    • Cifrado en tránsito y, cuando corresponda, en reposo.
-    • Registro de accesos, consultas, exportaciones y modificaciones.
-    • Plazos de conservación y eliminación segura.
-    • Procedimiento de notificación y respuesta a incidentes.
-    • Revisión periódica de permisos y auditorías.
-    • Mecanismo para corregir información errónea.
-    • Evaluación de riesgos de privacidad y seguridad antes de operar.
+Responsable institucional de cada conjunto de datos.
+Base jurídica y finalidad de cada consulta.
+Categorías de usuarios autorizados y proceso para dar o retirar permisos.
+Datos que se muestran a cada rol.
+Cifrado en tránsito y, cuando corresponda, en reposo.
+Registro de accesos, consultas, exportaciones y modificaciones.
+Plazos de conservación y eliminación segura.
+Procedimiento de notificación y respuesta a incidentes.
+Revisión periódica de permisos y auditorías.
+Mecanismo para corregir información errónea.
+Evaluación de riesgos de privacidad y seguridad antes de operar.
 Los datos de prueba deben ser ficticios y claramente marcados como tales. No se deben incorporar listas reales de personas buscadas, documentos de identidad o información de menores a un prototipo de demostración sin autorización expresa y medidas de protección adecuadas.
 10.9. Operación con conectividad limitada
 El diseño puede contemplar que la aplicación funcione parcialmente cuando no hay conexión, pero debe separar las funciones locales de las consultas que requieren información actualizada. Un registro almacenado en el dispositivo no equivale a una consulta en tiempo real.
@@ -470,31 +524,31 @@ Como principio de seguridad, una consulta a requerimientos vigentes no debe pres
 La sincronización diferida también requiere reglas de conflicto, cifrado, control de dispositivos, borrado remoto cuando sea viable y límites de conservación. La decisión de habilitar almacenamiento local de datos sensibles debe adoptarse después de una evaluación de riesgo, no como una característica predeterminada.
 10.10. Arquitectura conceptual y dependencias
 A nivel conceptual, VIGÍA podría organizarse en cuatro componentes:
-    • Componente de registro del servicio:  captura o recibe el manifiesto permitido.
-    • Componente de validación documental:  consulta el estado de autorizaciones mediante una fuente autorizada.
-    • Componente policial de verificación:  permite al personal habilitado realizar consultas autorizadas y registrar el resultado.
-    • Componente de supervisión y auditoría:  genera trazabilidad y reportes agregados.
+Componente de registro del servicio:  captura o recibe el manifiesto permitido.
+Componente de validación documental:  consulta el estado de autorizaciones mediante una fuente autorizada.
+Componente policial de verificación:  permite al personal habilitado realizar consultas autorizadas y registrar el resultado.
+Componente de supervisión y auditoría:  genera trazabilidad y reportes agregados.
 Una implementación podría evaluar tecnologías móviles, una interfaz web y una base de datos con controles de acceso. La selección concreta de herramientas, alojamiento y arquitectura debe justificarse mediante pruebas de seguridad, disponibilidad, costo y compatibilidad con las políticas institucionales. Mencionar una tecnología no demuestra por sí mismo que el sistema sea seguro ni interoperable.
 La conexión con fuentes de la Defensoría, el Ministerio Público u órganos judiciales es una dependencia crítica. Si no se obtienen acuerdos y servicios oficiales, el prototipo debe limitarse a demostrar el flujo de interfaz y auditoría con datos ficticios, dejando explícita la ausencia de conexión real.
 11. Protocolo policial propuesto
 Este protocolo es una propuesta para revisión institucional. No reemplaza órdenes, instructivos ni procedimientos vigentes y no debe aplicarse como protocolo oficial hasta recibir aprobación de las autoridades competentes.
 11.1. Verificación de viaje de menores
-    • Identificar el supuesto de viaje y determinar, conforme al procedimiento vigente, si corresponde una autorización específica.
-    • Solicitar y revisar la documentación permitida por la normativa.
-    • Cuando exista una consulta digital autorizada, comprobar el estado del documento mediante la fuente institucional correspondiente.
-    • Si existe discrepancia, verificar si se trata de un error de carga, de una demora de actualización o de un documento que requiere revisión adicional.
-    • Activar a la Defensoría de la Niñez y Adolescencia u otra instancia competente cuando el caso lo requiera.
-    • Aplicar únicamente las medidas previstas en la normativa y el procedimiento institucional.
-    • Registrar el resultado mínimo necesario, sin exponer datos sensibles en reportes generales.
+Identificar el supuesto de viaje y determinar, conforme al procedimiento vigente, si corresponde una autorización específica.
+Solicitar y revisar la documentación permitida por la normativa.
+Cuando exista una consulta digital autorizada, comprobar el estado del documento mediante la fuente institucional correspondiente.
+Si existe discrepancia, verificar si se trata de un error de carga, de una demora de actualización o de un documento que requiere revisión adicional.
+Activar a la Defensoría de la Niñez y Adolescencia u otra instancia competente cuando el caso lo requiera.
+Aplicar únicamente las medidas previstas en la normativa y el procedimiento institucional.
+Registrar el resultado mínimo necesario, sin exponer datos sensibles en reportes generales.
 La falta de una respuesta digital no demuestra por sí misma que el menor carezca de autorización. Debe aplicarse el procedimiento alternativo aprobado.
 11.2. Consulta de requerimientos vigentes
-    • Confirmar que la consulta corresponde a una función policial autorizada.
-    • Utilizar únicamente la fuente institucional aprobada.
-    • Verificar la información de identidad mediante los procedimientos legalmente permitidos.
-    • Confirmar tipo, autoridad emisora, vigencia y alcance del requerimiento con la fuente competente.
-    • Si la información es ambigua o no está disponible, solicitar confirmación por el canal oficial.
-    • Adoptar medidas solo cuando exista fundamento jurídico suficiente y corresponda a la competencia del funcionario.
-    • Registrar la consulta y la actuación sin incluir datos innecesarios.
+Confirmar que la consulta corresponde a una función policial autorizada.
+Utilizar únicamente la fuente institucional aprobada.
+Verificar la información de identidad mediante los procedimientos legalmente permitidos.
+Confirmar tipo, autoridad emisora, vigencia y alcance del requerimiento con la fuente competente.
+Si la información es ambigua o no está disponible, solicitar confirmación por el canal oficial.
+Adoptar medidas solo cuando exista fundamento jurídico suficiente y corresponda a la competencia del funcionario.
+Registrar la consulta y la actuación sin incluir datos innecesarios.
 Una coincidencia automática no equivale a una orden ejecutable ni autoriza por sí misma una aprehensión.
 11.3. Resolución de discrepancias
 Las discrepancias pueden surgir por errores de digitación, documentos desactualizados, cambios recientes en el registro, fallas de conectividad o coincidencias parciales. El funcionario debe distinguir esos supuestos antes de concluir que existe incumplimiento.
@@ -505,6 +559,14 @@ Los reportes para evaluación académica o supervisión deben ser agregados y no
 11.5. Incidentes, escalamiento y continuidad
 Ante caída del sistema, falta de conectividad, sospecha de acceso indebido o divergencia de datos, el usuario debe seguir el procedimiento de contingencia aprobado. El sistema debe registrar el incidente y permitir la comunicación al responsable técnico e institucional.
 No se recomienda que el personal descargue bases completas a dispositivos personales ni que utilice cuentas compartidas para sortear fallas de acceso. La continuidad operativa debe preservar la seguridad y los derechos de las personas.
+
+
+
+
+
+
+
+
 
 CAPÍTULO V
 FACTIBILIDAD, CONCLUSIONES Y RECOMENDACIONES
@@ -552,41 +614,49 @@ Uso de alertas como órdenes automáticas
 Actuaciones fuera del marco legal
 Mensajes claros, formación y controles institucionales
 
+
 12.4. Propuesta de piloto y criterios de evaluación
 Se propone considerar un piloto únicamente después de la aprobación jurídica e institucional. La duración, ubicación y participantes deben fijarse con las autoridades responsables. Como etapa inicial, puede realizarse una prueba técnica con datos ficticios para verificar las pantallas, roles, registro de auditoría, estados de error y recuperación ante fallas.
 Una etapa posterior con datos reales solo debería autorizarse si existe base legal, convenio de acceso, evaluación de seguridad, capacitación y procedimiento formal. La selección de los puntos de control debe responder a criterios institucionales y no a una presunción de que ya existe autorización para operar en ellos.
 Los indicadores propuestos son:
-    • Porcentaje de consultas completadas frente a consultas iniciadas.
-    • Tiempo de respuesta de la aplicación y, por separado, de cada fuente externa.
-    • Porcentaje de consultas no disponibles.
-    • Número de discrepancias documentales que requirieron revisión humana.
-    • Tasa de alertas incorrectas detectadas durante pruebas controladas.
-    • Porcentaje de actuaciones con registro de auditoría completo.
-    • Incidentes de seguridad o accesos indebidos.
-    • Satisfacción y dificultades reportadas por los usuarios capacitados.
-    • Cumplimiento de las reglas de minimización y conservación.
-    • Proporción de casos derivados correctamente a la autoridad competente.
+Porcentaje de consultas completadas frente a consultas iniciadas.
+Tiempo de respuesta de la aplicación y, por separado, de cada fuente externa.
+Porcentaje de consultas no disponibles.
+Número de discrepancias documentales que requirieron revisión humana.
+Tasa de alertas incorrectas detectadas durante pruebas controladas.
+Porcentaje de actuaciones con registro de auditoría completo.
+Incidentes de seguridad o accesos indebidos.
+Satisfacción y dificultades reportadas por los usuarios capacitados.
+Cumplimiento de las reglas de minimización y conservación.
+Proporción de casos derivados correctamente a la autoridad competente.
 Los indicadores deben interpretarse con contexto. Una mayor cantidad de alertas no demuestra por sí sola mayor seguridad, y una reducción de incidencias registradas podría deberse a cambios de reporte. Para evaluar efectos sobre resultados de seguridad se necesitaría un diseño de evaluación más amplio, con datos comparables y control de factores externos.
 13. Conclusiones
-    • El control de menores durante viajes interdepartamentales y la consulta de requerimientos de búsqueda responden a finalidades y marcos procedimentales diferentes. Una solución digital debe mantener separados ambos procesos, definir la base jurídica de cada consulta y asignar responsabilidades claras.
-    • Los antecedentes públicos identificados, incluido el reporte de la ATT de 2022 y publicaciones periodísticas posteriores sobre incidentes relacionados con menores en Tarija, justifican examinar la oportunidad, coordinación y trazabilidad de los controles. No obstante, esas fuentes no constituyen una medición completa del problema ni permiten atribuir causalidad a la ausencia de una plataforma digital.
-    • La información disponible públicamente no basta para afirmar de manera concluyente que todos los puntos de control carecen de acceso a requerimientos vigentes, que no existen registros o que los procedimientos actuales son uniformemente manuales. Esos aspectos deben verificarse con documentación y datos institucionales. La falta de evidencia pública debe presentarse como una limitación del estudio, no como prueba de inexistencia.
-    • VIGÍA constituye una propuesta de diseño para organizar la verificación y la trazabilidad. Su posible aporte radica en estandarizar el flujo de consulta, distinguir los estados de respuesta y dejar registros auditables. El diseño no demuestra todavía que el sistema reduzca delitos, evite incidentes o funcione en operación real.
-    • La consulta de requerimientos solo sería viable si se autoriza el acceso a una fuente oficial actualizada y se establecen reglas de interoperabilidad. Sin esa condición, el componente debe permanecer como requisito futuro o demostrarse únicamente con datos ficticios; no puede presentarse como una función operativa real.
-    • Una alerta informática no puede sustituir la comprobación de identidad, la confirmación de vigencia ni el juicio del funcionario competente. El sistema no debe ordenar automáticamente aprehensiones o retenciones ni atribuir consecuencias jurídicas a una coincidencia de datos.
-    • La protección de datos, el interés superior de niñas, niños y adolescentes, la privacidad, el debido proceso y la seguridad de la información son condiciones esenciales de diseño, no complementos opcionales. Deben incorporarse desde la definición de requisitos y evaluarse antes de cualquier prueba con datos reales.
-    • La viabilidad de VIGÍA debe establecerse por etapas: validación jurídica e institucional, prueba funcional con datos ficticios, evaluación de seguridad y usabilidad y, solo después de recibir las autorizaciones necesarias, un piloto controlado con indicadores previamente definidos. Por tanto, la conclusión razonable es que la propuesta merece evaluación institucional, no que su eficacia operativa ya esté demostrada.
+El control de menores durante viajes interdepartamentales y la consulta de requerimientos de búsqueda responden a finalidades y marcos procedimentales diferentes. Una solución digital debe mantener separados ambos procesos, definir la base jurídica de cada consulta y asignar responsabilidades claras.
+Los antecedentes públicos identificados, incluido el reporte de la ATT de 2022 y publicaciones periodísticas posteriores sobre incidentes relacionados con menores en Tarija, justifican examinar la oportunidad, coordinación y trazabilidad de los controles. No obstante, esas fuentes no constituyen una medición completa del problema ni permiten atribuir causalidad a la ausencia de una plataforma digital.
+La información disponible públicamente no basta para afirmar de manera concluyente que todos los puntos de control carecen de acceso a requerimientos vigentes, que no existen registros o que los procedimientos actuales son uniformemente manuales. Esos aspectos deben verificarse con documentación y datos institucionales. La falta de evidencia pública debe presentarse como una limitación del estudio, no como prueba de inexistencia.
+VIGÍA constituye una propuesta de diseño para organizar la verificación y la trazabilidad. Su posible aporte radica en estandarizar el flujo de consulta, distinguir los estados de respuesta y dejar registros auditables. El diseño no demuestra todavía que el sistema reduzca delitos, evite incidentes o funcione en operación real.
+La consulta de requerimientos solo sería viable si se autoriza el acceso a una fuente oficial actualizada y se establecen reglas de interoperabilidad. Sin esa condición, el componente debe permanecer como requisito futuro o demostrarse únicamente con datos ficticios; no puede presentarse como una función operativa real.
+Una alerta informática no puede sustituir la comprobación de identidad, la confirmación de vigencia ni el juicio del funcionario competente. El sistema no debe ordenar automáticamente aprehensiones o retenciones ni atribuir consecuencias jurídicas a una coincidencia de datos.
+La protección de datos, el interés superior de niñas, niños y adolescentes, la privacidad, el debido proceso y la seguridad de la información son condiciones esenciales de diseño, no complementos opcionales. Deben incorporarse desde la definición de requisitos y evaluarse antes de cualquier prueba con datos reales.
+La viabilidad de VIGÍA debe establecerse por etapas: validación jurídica e institucional, prueba funcional con datos ficticios, evaluación de seguridad y usabilidad y, solo después de recibir las autorizaciones necesarias, un piloto controlado con indicadores previamente definidos. Por tanto, la conclusión razonable es que la propuesta merece evaluación institucional, no que su eficacia operativa ya esté demostrada.
 14. Recomendaciones
-    • Completar la verificación normativa.  Consultar textos oficiales vigentes de la Constitución, la Ley N.º 548, los decretos reglamentarios, el Código de Procedimiento Penal y la Ley N.º 260. Verificar artículo por artículo y corregir cualquier interpretación que extienda una regla más allá de su alcance.
-    • Obtener documentación institucional.  Solicitar, mediante los canales correspondientes, procedimientos vigentes de control en terminales y trancas, reglas de autorización de viaje y descripción de los canales autorizados para consultar requerimientos. Cuando no se entregue información, dejar constancia de la solicitud y del límite resultante.
-    • Solicitar datos agregados.  Si es posible, pedir cifras anonimizadas y periodos claramente definidos a la Policía, Defensoría y ATT. No incorporar información personal o reservada en el documento académico.
-    • Completar el diagnóstico de campo solo con autorización.  Si se realizan entrevistas u observaciones, registrar metodología, fechas, perfiles generales, consentimiento y límites. Si no se realizan, mantener el trabajo como estudio documental-propositivo y retirar expresiones que indiquen que los resultados fueron constatados empíricamente.
-    • Formalizar la gobernanza de datos.  Antes de conectar instituciones, definir finalidad, base jurídica, responsables, permisos, actualizaciones, conservación, eliminación, auditoría y respuesta a incidentes.
-    • Mantener la revisión humana.  Diseñar VIGÍA para mostrar resultados verificables y estados de incertidumbre, nunca como mecanismo automático de detención o como sustituto de las competencias legales.
-    • Probar primero con datos ficticios.  Validar la interfaz, los roles, los registros y el comportamiento ante errores antes de cualquier uso con datos reales.
-    • Diseñar un piloto medible.  Definir objetivos, indicadores, criterios de aceptación, responsables, presupuesto, capacitación y condiciones para suspender la prueba si aparecen riesgos jurídicos, de privacidad o de seguridad.
-    • Revisar la viabilidad financiera y de mantenimiento.  Calcular costos de alojamiento, dispositivos, conectividad, soporte, actualización y capacitación. No limitar la evaluación a que una tecnología sea técnicamente disponible.
-    • Ajustar las conclusiones al alcance real.  Diferenciar con claridad lo que establecen las normas, lo que informan las fuentes secundarias, lo que se obtuvo de instituciones y lo que constituye una propuesta o hipótesis.
+Completar la verificación normativa.  Consultar textos oficiales vigentes de la Constitución, la Ley N.º 548, los decretos reglamentarios, el Código de Procedimiento Penal y la Ley N.º 260. Verificar artículo por artículo y corregir cualquier interpretación que extienda una regla más allá de su alcance.
+Obtener documentación institucional.  Solicitar, mediante los canales correspondientes, procedimientos vigentes de control en terminales y trancas, reglas de autorización de viaje y descripción de los canales autorizados para consultar requerimientos. Cuando no se entregue información, dejar constancia de la solicitud y del límite resultante.
+Solicitar datos agregados.  Si es posible, pedir cifras anonimizadas y periodos claramente definidos a la Policía, Defensoría y ATT. No incorporar información personal o reservada en el documento académico.
+Completar el diagnóstico de campo solo con autorización.  Si se realizan entrevistas u observaciones, registrar metodología, fechas, perfiles generales, consentimiento y límites. Si no se realizan, mantener el trabajo como estudio documental-propositivo y retirar expresiones que indiquen que los resultados fueron constatados empíricamente.
+Formalizar la gobernanza de datos.  Antes de conectar instituciones, definir finalidad, base jurídica, responsables, permisos, actualizaciones, conservación, eliminación, auditoría y respuesta a incidentes.
+Mantener la revisión humana.  Diseñar VIGÍA para mostrar resultados verificables y estados de incertidumbre, nunca como mecanismo automático de detención o como sustituto de las competencias legales.
+Probar primero con datos ficticios.  Validar la interfaz, los roles, los registros y el comportamiento ante errores antes de cualquier uso con datos reales.
+Diseñar un piloto medible.  Definir objetivos, indicadores, criterios de aceptación, responsables, presupuesto, capacitación y condiciones para suspender la prueba si aparecen riesgos jurídicos, de privacidad o de seguridad.
+Revisar la viabilidad financiera y de mantenimiento.  Calcular costos de alojamiento, dispositivos, conectividad, soporte, actualización y capacitación. No limitar la evaluación a que una tecnología sea técnicamente disponible.
+Ajustar las conclusiones al alcance real.  Diferenciar con claridad lo que establecen las normas, lo que informan las fuentes secundarias, lo que se obtuvo de instituciones y lo que constituye una propuesta o hipótesis.
+
+
+
+
+
+
+
 
 CAPÍTULO ANEXOS
 REFERENCIAS BIBLIOGRÁFICAS Y ANEXOS
@@ -617,6 +687,7 @@ Los Tiempos. (s. f.).  La Paz: permisos de viaje para menores se podrán tramita
 Senado de Bolivia. (2017).  Petición de informe escrito PIE N.º 996-2017 . https://web.senado.gob.bo/sites/default/files/peticiones/PIE%20%20N%C2%BA%20996-2017%20RESPUESTA.PDF
 Todo Noticias Tarija. (2026, mayo).  Directora de la Secretaría de la Mujer y Familia informa que se realizan controles de viajes a menores . https://todonoticiastarija.com.bo/tarija/directora-de-la-secretaria-de-la-mujer-y-familia-informa-que-se-realizan-controles-de-viajes-a-menores/
 Tribunal Constitucional Plurinacional de Bolivia. (s. f.).  Aprehensión por la Fiscalía. Jurisprudencia constitucional . https://jurisprudenciaconstitucional.com/derecho-procesal-penal/medidas-cautelares-en-bolivia/aprehension-por-la-fiscalia
+
 16. Anexos propuestos
 Los anexos deben incorporarse únicamente si existen y están autorizados para uso académico. No se deben crear actas, entrevistas, estadísticas o resultados ficticios.
 Anexo A. Matriz de revisión normativa
@@ -656,32 +727,37 @@ Pendiente
 Competencias del Ministerio Público
 Confirmar atribuciones
 
+
+
 Anexo B. Guía de entrevista propuesta
 Finalidad:  conocer el procedimiento institucional sin solicitar datos personales, reservados ni información de casos concretos.
-    • ¿Cuál es el procedimiento vigente para verificar autorizaciones de viaje de menores en el punto donde usted cumple funciones?
-    • ¿Qué institución determina si una autorización es exigible y qué documentos se aceptan?
-    • ¿Qué fuente o canal institucional se utiliza para comprobar autenticidad y vigencia?
-    • ¿Cómo se procede cuando la documentación presenta una discrepancia?
-    • ¿Qué procedimiento se sigue cuando no hay conectividad o la fuente no responde?
-    • ¿Qué canales están autorizados para consultar requerimientos judiciales o fiscales?
-    • ¿Cómo se verifica la identidad y vigencia de un requerimiento antes de adoptar una medida?
-    • ¿Qué datos se registran de cada actuación y quién puede consultarlos?
-    • ¿Qué dificultades de coordinación o capacitación considera prioritarias?
-    • ¿Qué condiciones jurídicas, técnicas y operativas debería cumplir una herramienta digital para resultar útil?
+¿Cuál es el procedimiento vigente para verificar autorizaciones de viaje de menores en el punto donde usted cumple funciones?
+¿Qué institución determina si una autorización es exigible y qué documentos se aceptan?
+¿Qué fuente o canal institucional se utiliza para comprobar autenticidad y vigencia?
+¿Cómo se procede cuando la documentación presenta una discrepancia?
+¿Qué procedimiento se sigue cuando no hay conectividad o la fuente no responde?
+¿Qué canales están autorizados para consultar requerimientos judiciales o fiscales?
+¿Cómo se verifica la identidad y vigencia de un requerimiento antes de adoptar una medida?
+¿Qué datos se registran de cada actuación y quién puede consultarlos?
+¿Qué dificultades de coordinación o capacitación considera prioritarias?
+¿Qué condiciones jurídicas, técnicas y operativas debería cumplir una herramienta digital para resultar útil?
 La aplicación de esta guía requiere autorización y consentimiento informado cuando corresponda. Los resultados deben presentarse de forma agregada y anonimizada.
+
 Anexo C. Ficha de revisión documental
-    • Código interno de fuente:
-    • Institución o medio emisor:
-    • Título:
-    • Fecha de publicación:
-    • Tipo de documento:
-    • Enlace o referencia:
-    • ¿Se consultó el texto completo?:
-    • ¿Es fuente primaria, oficial o secundaria?:
-    • Hecho o disposición que respalda:
-    • Limitaciones:
-    • Verificación pendiente:
-    • Sección de la monografía en la que se utiliza:
+Código interno de fuente:
+Institución o medio emisor:
+Título:
+Fecha de publicación:
+Tipo de documento:
+Enlace o referencia:
+¿Se consultó el texto completo?:
+¿Es fuente primaria, oficial o secundaria?:
+Hecho o disposición que respalda:
+Limitaciones:
+Verificación pendiente:
+Sección de la monografía en la que se utiliza:
+
+
 Anexo D. Matriz de requisitos del prototipo
 Código
 Requisito
@@ -724,17 +800,18 @@ Media
 Verificación de ausencia de datos identificables
 Pendiente de registrar
 
+
 Anexo E. Solicitud de información institucional: temas sugeridos
 Para el Comando Departamental de Policía:
-    • Procedimientos vigentes de control en terminales y trancas.
-    • Canales autorizados para la verificación de requerimientos.
-    • Datos agregados disponibles sobre controles, derivaciones y dificultades operativas.
+Procedimientos vigentes de control en terminales y trancas.
+Canales autorizados para la verificación de requerimientos.
+Datos agregados disponibles sobre controles, derivaciones y dificultades operativas.
 Para la Defensoría de la Niñez y Adolescencia:
-    • Procedimientos y supuestos de autorización de viaje de menores.
-    • Datos agregados disponibles sobre solicitudes, observaciones y controles.
-    • Mecanismos vigentes de coordinación con Policía y empresas de transporte.
+Procedimientos y supuestos de autorización de viaje de menores.
+Datos agregados disponibles sobre solicitudes, observaciones y controles.
+Mecanismos vigentes de coordinación con Policía y empresas de transporte.
 Para la ATT o la autoridad competente del transporte:
-    • Normativa y procedimientos aplicables a manifiestos de pasajeros.
-    • Antecedentes oficiales sobre controles de viajes de menores.
-    • Reglas vigentes de coordinación con operadores y autoridades de control.
+Normativa y procedimientos aplicables a manifiestos de pasajeros.
+Antecedentes oficiales sobre controles de viajes de menores.
+Reglas vigentes de coordinación con operadores y autoridades de control.
 Toda solicitud debe formularse por canales oficiales, respetar las restricciones legales y evitar pedir datos personales de niñas, niños, adolescentes o personas involucradas en casos concretos.
